@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\sample"
+		},
+		{
+			"path": "..\\..\\90days"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"CD.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "90days"
+	}
+}
