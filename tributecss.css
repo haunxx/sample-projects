@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:400,400i,600,600i');
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    text-shadow: 5px 5px 10px black;
+}
+body{
+    background-color: #801638;
+}
+.shadow{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+       
+}
+.whitebg{
+    border-radius: 7px;
+    background-color: rgb(221, 215, 232);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    width:88%;
+
+}
+.blue{
+    color:#00529f;
+}
+.red{
+    color: #801638;
+}
+.white{
+    color: rgb(234, 225, 225);
+}
+.center{
+    text-align: center;
+} 
+.subtxt{
+  text-align: left;
+    font-family:fantasy;
+    letter-spacing: 1px;
+}
+.smltxt{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.right{
+    margin-left: 680px;
+    color: rgb(129, 123, 123);
+    }
+    .left{
+        text-align: left;
+    }
+.float{
+    float: right;
+}
+.size{
+   size:50%;
+}
+.by{
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 7px;
+    background-color: rgb(253, 195, 183);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+    width:88%;
+}
+    
